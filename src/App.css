@@ -1,0 +1,19 @@
+#toggle{
+  margin-top: 100px;
+  padding: 12px;
+  font-size: 24px;
+  border-radius: 10px;
+  font-weight: 700;
+  box-shadow: 2px 4px 4px black;
+  background-color: rgb(234, 238, 255);
+  cursor: pointer;
+  color: blue;
+  border: 1px solid rgb(0, 39, 118);
+}
+
+#toggle:active{
+  background-color: rgb(81, 148, 255);
+  color: white;
+  box-shadow: 1px 1px 1px black;
+  border: none;
+}
